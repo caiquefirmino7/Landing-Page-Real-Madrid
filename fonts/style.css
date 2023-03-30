@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Real Madrid';
+    src: local('Real Madrid 2022'), local('Real-Madrid-2022'),
+        url('RealMadrid2022.woff2') format('woff2'),
+        url('RealMadrid2022.woff') format('woff'),
+        url('RealMadrid2022.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
